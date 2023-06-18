@@ -314,11 +314,11 @@ html, body{
     max-width: 370px;
     background-color: var(--project-card-bg);
     box-shadow: var(--box-shadow);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .project__img {
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .project__title {
